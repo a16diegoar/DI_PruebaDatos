@@ -1,0 +1,14 @@
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\bin\Debug\PruebaDatos.exe.config
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\bin\Debug\PruebaDatos.exe
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\bin\Debug\PruebaDatos.pdb
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\bin\Debug\PruebaDatos.xml
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.vbprojAssemblyReference.cache
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.DlgPedirFecha.resources
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.FrmInicial.resources
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.Resources.resources
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.vbproj.GenerateResource.cache
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.exe
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.xml
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.pdb
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.FrmMantSocBenef.resources
+L:\DesenvolvementoInterfaces\Projects\PruebaDatos\obj\Debug\PruebaDatos.FrmAuxSocio.resources
